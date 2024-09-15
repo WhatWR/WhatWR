@@ -1,7 +1,7 @@
 ## What's Up 👋
 
 <div align="center">
-  <img src="https://github.com/jgneff/gif-duke/blob/master/images/duke-waving.gif?raw=true" width="300" />
+  <img src="https://raw.githubusercontent.com/javascript-mascot/javascript-mascot/f26a2acf22c3f48dd258bd0d0b276664750643d2/artwork/javascript_mascot_typescript.svg" width="300" />
 </div>
 
 <br />
